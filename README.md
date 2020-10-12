@@ -1,2 +1,2 @@
-# Data_Structures_and_Algorithms
-A repository for data structures and algorithms
+# 30 Days of ML
+A repository for various machine learning algorithms, project ideas and resources.
