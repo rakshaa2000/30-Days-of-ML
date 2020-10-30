@@ -11,9 +11,21 @@ This is a repository for various machine learning algorithms, project ideas and 
 - [Color detection](Color_detection/)
 - [Detecting Parkinson's Disease](Detecting_Parkinson's_Disease/)
 - [Emojify](Emojify/)
-- Fake news Detector
-- Handwritten Digit Recognition
-- Iris Classification
-- Spam Classification
-- Titanic Survival Prediction
-- Wine Quality Prediction and Classification
+- [Fake news Detector](Fake_news_Detector/)
+- [Handwritten Digit Recognition](Handwritten_Digit_Recognition/)
+- [Iris Classification](Iris_Classification/)
+- [Spam Classification](Spam_Classification/)
+- [Titanic Survival Prediction](Titanic/)
+- [Wine Quality Prediction and Classification](Wine_Quality/)
+
+## Software used:
+*Jupyter Notebook*
+
+## Frameworks:
+- *Numpy*
+- *Pandas*
+- *Scikit-Learn*
+- *TensorFlow*
+- *Keras*
+- *Matplotlib*
+- *XGBoost*
