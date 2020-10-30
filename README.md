@@ -6,6 +6,7 @@ This is a repository for various machine learning algorithms, project ideas and 
 
 ## Projects so far:
 
+- [Air Quality Prediction](Air_Quality/) :fog:
 - [Breast Cancer Prediction](Breast_Cancer_Prediction/) :older_woman:
 - [Cartoonify an Image](Cartoonify_an_Image/) :tv:
 - [Color detection](Color_detection/) :rainbow:
