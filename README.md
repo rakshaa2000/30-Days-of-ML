@@ -9,7 +9,7 @@ This is a repository for various machine learning algorithms, project ideas and 
 - [Breast Cancer Prediction](Breast_Cancer_Prediction/) :older_woman:
 - [Cartoonify an Image](Cartoonify_an_Image/) :tv:
 - [Color detection](Color_detection/) :rainbow:
-- [Detecting Parkinson's Disease](Detecting_Parkinson's_Disease/) :standing_man:
+- [Detecting Parkinson's Disease](Detecting_Parkinson’s_Disease/) :standing_man:
 - [Emojify](Emojify/) :grinning:
 - [Fake news Detector](Fake_news_Detector/) :newspaper:
 - [Handwritten Digit Recognition](Handwritten_Digit_Recognition/) :black_nib:
