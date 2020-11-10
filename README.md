@@ -1,5 +1,7 @@
 # 30 Days of ML :computer: <image src="pic.jpg" width=200 align="right">
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/0ebbb76202b047a08e2df1babe0a1f69)](https://app.codacy.com/gh/rakshaa2000/30-Days-of-ML?utm_source=github.com&utm_medium=referral&utm_content=rakshaa2000/30-Days-of-ML&utm_campaign=Badge_Grade)
+
 Hey there, geek! :wave:
 
 This is a repository for various machine learning algorithms, project ideas and resources.
