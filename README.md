@@ -4,7 +4,7 @@ Hey there, geek! :wave:
 
 This is a repository for various machine learning algorithms, project ideas and resources.
 
-## Projects so far:
+## Projects so far
 
 -   [Air Quality Prediction](Air_Quality/) :fog:
 -   [Breast Cancer Prediction](Breast_Cancer_Prediction/) :older_woman:
@@ -19,7 +19,7 @@ This is a repository for various machine learning algorithms, project ideas and 
 -   [Titanic Survival Prediction](Titanic/) :ship:
 -   [Wine Quality Prediction and Classification](Wine_Quality/) :wine_glass:
 
-## Software used:
+## Software used
 *Jupyter Notebook*
 
 ## Frameworks
