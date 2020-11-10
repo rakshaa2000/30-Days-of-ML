@@ -47,7 +47,6 @@ while(1):
 
     cv2.imshow("image",img)
     if (clicked):
-   
         #cv2.rectangle(image, startpoint, endpoint, color, thickness)-1 fills entire rectangle
         cv2.rectangle(img,(20,20), (750,60), (b,g,r), -1)
 
@@ -63,7 +62,7 @@ while(1):
             
         clicked=False
 
-    #Break the loop when user hits 'esc' key   
+    #Break the loop when user hits 'esc' key
     if cv2.waitKey(20) & 0xFF ==27:
         break
     
