@@ -1,7 +1,6 @@
 # 30 Days of ML :computer: <image src="pic.jpg" width=200 align="right">
   
 [![](https://colab.research.google.com/assets/colab-badge.svg)]()
-
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/0ebbb76202b047a08e2df1babe0a1f69)](https://app.codacy.com/gh/rakshaa2000/30-Days-of-ML?utm_source=github.com&utm_medium=referral&utm_content=rakshaa2000/30-Days-of-ML&utm_campaign=Badge_Grade)
 
 Hey there, geek! :wave:
