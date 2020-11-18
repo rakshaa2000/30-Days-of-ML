@@ -3,6 +3,12 @@
 [![](https://colab.research.google.com/assets/colab-badge.svg)]()
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/0ebbb76202b047a08e2df1babe0a1f69)](https://app.codacy.com/gh/rakshaa2000/30-Days-of-ML?utm_source=github.com&utm_medium=referral&utm_content=rakshaa2000/30-Days-of-ML&utm_campaign=Badge_Grade)
 
+[![GitHub top language](https://img.shields.io/github/languages/top/rakshaa2000/30-Days-of-ML?logo=c++)]() 
+[![GitHub issues](https://img.shields.io/github/issues/rakshaa2000/30-Days-of-ML.svg)](https://gitHub.com/rakshaa2000/30-Days-of-ML/issues/)
+[![GitHub pull-requests](https://img.shields.io/github/issues-pr/rakshaa2000/30-Days-of-ML.svg)](https://rakshaa2000/30-Days-of-ML/webtech/pull/)
+[![GitHub contributors](https://img.shields.io/github/contributors/rakshaa2000/30-Days-of-ML.svg)](https://rakshaa2000/30-Days-of-ML/webtech/graphs/contributors/)
+![Last Commit on GitHub](https://img.shields.io/github/last-commit/rakshaa2000/30-Days-of-ML.svg)
+
 Hey there, geek! :wave:
 
 This is a repository for various machine learning algorithms, project ideas and resources.
